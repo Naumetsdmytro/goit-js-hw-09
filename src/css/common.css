@@ -16,3 +16,14 @@ img {
   display: block;
   max-width: 100%;
 }
+.value {
+  color: aliceblue;
+  background-color: black;
+  font-size: 17px;
+  border-radius: 30%;
+  padding: 1px;
+}
+.label {
+  font-style: italic;
+  font-size: 18px;
+}
